@@ -62,13 +62,13 @@ Feel free to check the discussions tab, you might get something of help there. C
 # SheetSync: CSV Import & Filter
 SheetSync is a web application that allows users to upload a CSV file, select specific columns from it, and add the selected data to a Google Sheet. Users can also provide a Google Sheet link to append their data to an existing sheet. This project utilizes the Google Sheets API for seamless integration with Google Sheets.
 
-## Table of Contents
+### Table of Contents
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video](#Video Link)
+- [Video](#Video)
 
 
 ## Features
@@ -113,7 +113,7 @@ streamlit run index.py
 ```
 
 
-## Video Link
+## Video
 
 
 
