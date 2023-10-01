@@ -5,7 +5,7 @@ from authenticate import *
 from appendToSheet import *
 
 # Set the title of the app
-st.title("CSV File To Google Sheet")
+st.title("SheetSync: CSV Import & Filter")
 
 # Create a file uploader widget
 uploadedFile = st.file_uploader("Upload a CSV file", type=["csv"])
