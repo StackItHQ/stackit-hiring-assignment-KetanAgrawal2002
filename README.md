@@ -146,7 +146,7 @@ https://drive.google.com/file/d/1fTQsrm1X0Qt0bsVCar9zDJ-vuNIrcU2s/view
 
 <hr>
 <center>
-    Made with &#10084;&#65039; by Ketan Agrawal.
+Made with &#10084;&#65039; by Ketan Agrawal.
 </center>
 
 
