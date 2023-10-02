@@ -27,4 +27,4 @@ def appendData(keyToSheet,data):
     
     except HttpError as error:
         print(f"An error occurred: {error}")
-        return error
+        return "An error occurred"
