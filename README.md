@@ -88,10 +88,9 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
 ### Installation
 
 1. Clone the repository:
-   
-Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
+-Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
 
-Then, run the following command to clone the repository:
+-Then, run the following command to clone the repository:
   ```ruby
 git clone https://github.com/StackItHQ/stackit-hiring-assignment-KetanAgrawal2002.git
 ```
