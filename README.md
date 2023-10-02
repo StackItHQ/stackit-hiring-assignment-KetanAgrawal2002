@@ -59,7 +59,7 @@ Feel free to check the discussions tab, you might get something of help there. C
 
 ## Developer's Section
 
-# SheetSync: CSV Import & Filter
+## SheetSync: CSV Import & Filter
 SheetSync is a web application that allows users to upload a CSV file, select specific columns from it, and add the selected data to a Google Sheet. Users can also provide a Google Sheet link to append their data to an existing sheet. This project utilizes the Google Sheets API for seamless integration with Google Sheets.
 
 ### Table of Contents
@@ -71,7 +71,7 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
 - [Video](#Video)
 
 
-## Features
+### Features
 
 - Upload a CSV file.
 - Select specific columns from the CSV file.
@@ -79,41 +79,49 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
 - Append data to an existing Google Sheet using a provided link.
 - Utilizes the Google Sheets API for seamless integration with Google Sheets.
 
-## Prerequisites
+### Prerequisites
+
 - [Python](https://www.python.org/) Ensure that you have Python installed on your computer.
 - [Google Cloud Platform](https://cloud.google.com/) project with the Google Sheets API enabled.
 - OAuth 2.0 credentials (client ID and client secret) for your Google Cloud project.
 
-## Installation
+### Installation
 
 1. Clone the repository:
+   
 Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
+
 Then, run the following command to clone the repository:
   ```ruby
 git clone https://github.com/StackItHQ/stackit-hiring-assignment-KetanAgrawal2002.git
 ```
 
 2. Navigate to the project directory:
+   
 ```ruby
 cd stackit-hiring-assignment-KetanAgrawal2002
 ```
 
 3. Install the required dependencies:
+   
  Double click requirements.bat
 
 
-4. Set up the Google Calendar credentials:
+5. Set up the Google Calendar credentials:
+   
 Download and place the credentials.json file (which contains your Google Sheet API credentials) in the project root directory and also add the access token and refresh token in token.json
 
-## Usage
+### Usage
 5. Start the application:
+   
 Once you have all the prerequisites ready, you can run the project locally by executing the index.py file using the command:
+
 ```ruby
 streamlit run index.py
 ```
 
 
-## Video
+### Video
 
 
 
