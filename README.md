@@ -49,7 +49,7 @@ Once you're done, make sure you **record a video** showing your project working.
 We have a checklist at the bottom of this README file, which you should update as your progress with your assignment. It will help us evaluate your project.
 
 - [X] My code's working just fine! 🥳
-- [ ] I have recorded a video showing it working and embedded it in the README ▶️
+- [X] I have recorded a video showing it working and embedded it in the README ▶️
 - [X] I have tested all the normal working cases 😎
 - [X] I have even solved some edge cases (brownie points) 💪
 - [X] I added my very planned-out approach to the problem at the end of this README 📜
@@ -69,16 +69,18 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
 - [Installation](#installation)
 - [Usage](#usage)
 - [Video](#Video)
+- [Credits](#credits)
 
 
 ### Features
 
-- Upload a CSV file.
-- Select specific columns from the CSV file.
-- Create a new Google Sheet and add the selected data.
-- Append data to an existing Google Sheet using a provided link.
-- Allows user to filter data based on their requirements.
-- Utilizes the Google Sheets API for seamless integration with Google Sheets.
+- **Drag and Drop capabilities** - Users can drag and drop CSV files onto the application.
+- **Selection of columns** - Users can select which columns to import from the CSV file.
+- **Usage of Google Sheets API** - The application uses the Google Sheets API to create, access, and manipulate Google Sheets programmatically.
+- **Add data to existing files** - Users can add data to existing Google Sheets by providing a link to the sheet.
+- **Custom Filters** - Users can apply custom filters to the data before adding it to Google Sheets.
+- **Optimized for large files** - The application is optimized to handle large CSV files with thousands of rows and columns without causing performance issues or prolonged loading times.
+
 
 
 ### Approach
@@ -119,7 +121,7 @@ To enhance data management, a data filtering feature is also implemented. Users 
      Run requirements.bat
 
 
-6. Set up the Google Calendar credentials:
+6. Set up the Google Sheet credentials:
      
     Download and place the credentials.json file (which contains your Google Sheet API credentials) in the project root directory and also add the access token and refresh token in token.json
 
@@ -136,6 +138,16 @@ To enhance data management, a data filtering feature is also implemented. Users 
 ### Video
 
 
+https://drive.google.com/file/d/1fTQsrm1X0Qt0bsVCar9zDJ-vuNIrcU2s/view
+
+### Credits
+- Ketan Agrawal - <a href="https://www.linkedin.com/in/ketan-agrawal-b61a40205/">LinkedIn</a>, <a href="https://www.instagram.com/ketanagrawal_2002/">Instagram</a>, <a href="https://github.com/KetanAgrawal2002">GitHub</a>
+
+
+<hr>
+<center>
+    Made with &#10084;&#65039; by Ketan Agrawal.
+</center>
 
 
 
