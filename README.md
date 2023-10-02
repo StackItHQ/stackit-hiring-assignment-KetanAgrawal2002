@@ -88,6 +88,7 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
 ### Installation
 
 1. Clone the repository:
+
     Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
 
     Then, run the following command to clone the repository:
@@ -102,15 +103,18 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
     ```
 
 4. Install the required dependencies:
+
      Double click requirements.bat
 
 
-5. Set up the Google Calendar credentials:
-     Download and place the credentials.json file (which contains your Google Sheet API credentials) in the project root directory and also add the access token and refresh token in token.json
+6. Set up the Google Calendar credentials:
+     
+    Download and place the credentials.json file (which contains your Google Sheet API credentials) in the project root directory and also add the access token and refresh token in token.json
 
 ### Usage
 5. Start the application:
-     Once you have all the prerequisites ready, you can run the project locally by executing the index.py file using the command:
+
+     Once you have all the prerequisites ready, you can run the project locally by executing the index.py file using the command:  
 
     ```ruby
     streamlit run index.py
