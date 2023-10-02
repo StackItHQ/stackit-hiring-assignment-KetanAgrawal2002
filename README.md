@@ -95,13 +95,13 @@ SheetSync is a web application that allows users to upload a CSV file, select sp
     git clone https://github.com/StackItHQ/stackit-hiring-assignment-KetanAgrawal2002.git
     ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
     ```ruby
     cd stackit-hiring-assignment-KetanAgrawal2002
     ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
      Double click requirements.bat
 
 
